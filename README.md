@@ -4,9 +4,9 @@ API для проекта YaTube
 
 ## Использованные технологии:
 
-Django Rest Framework
-Djoser
-Pillow
+* Django Rest Framework
+* Djoser
+* Pillow
   
 ## Запуск проекта:
 
